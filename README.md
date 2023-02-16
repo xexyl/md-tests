@@ -16,4 +16,7 @@ Some example accents.
 
 á ó ý
 
+## Others
+
+ß
 
