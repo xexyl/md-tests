@@ -29,4 +29,5 @@ Do German snakes go ßßßßßßßßßßßßßßßßßßßßßßßßß?
 
 ## Links
 
-<div align="center">This [README.md](README.md) link should be centred.</div>
+<div align="center">This [README.md](README.md) link should be centred but it
+isn't.</div>
