@@ -34,6 +34,9 @@ work is in fact `<title>` but others do. For instance: `<title>Test html and
 markdown in GitHub rendered pages</title>` shows that text literally on the
 rendered document.
 
+- Using symlinks; the symlink is noted as a symlink but not rendered like it
+might be if on a local file system.
+
 ## Current tests
 
 
