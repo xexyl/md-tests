@@ -30,6 +30,8 @@ work is in fact `<title>` but others do. For instance: `<title>Test html and
 markdown in GitHub rendered pages</title>` shows that text literally on the
 rendered document.
 
+## Current tests
+
 
 ## The below are all known to work:
 
@@ -49,13 +51,13 @@ Some example accents.
 
 Do German snakes go ßßßßßßßßßßßßßßßßßßßßßßßßß?
 
-### Links
 
-
-### HTML tags
+### HTML elements / tags
 
 Test links being centred if using `<a>` anchors:
 
 <div align="center"><a href="README.md">README.md link</a></div>
+
+Most other html tags / elements are known to work as well.
 
 </html>
