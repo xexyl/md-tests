@@ -16,28 +16,42 @@ it's the way markdown works.
 Progress might or might not be made and this might or might not be worked on at
 different times depending on other things going on.
 
-## Umlauts
+## What's known so far to _NOT_ work
+
+The following does _**NOT**_ work:
+
+- Centred links in the markdown style (`<a>` does work).
+    * For instance having `<div align="center">This [README.md](README.md) link
+    should be centred but it isn't.</div>` will show the markdown literally.
+
+- Certain html elements like `<title>`. At this time the only one I know not to
+work is in fact `<title>` but others do. For instance: `<title>Test html and
+markdown in GitHub rendered pages</title>` shows that text literally on the
+rendered document.
+
+
+## The below are all known to work:
+
+### Umlauts
 
 Some example umlauts
 
 ä ë ö ü
 
-## Accents
+### Accents
 
 Some example accents.
 
 á ó ý
 
-## Others
+### Others
 
 Do German snakes go ßßßßßßßßßßßßßßßßßßßßßßßßß?
 
-## Links
+### Links
 
-<div align="center">This [README.md](README.md) link should be centred but it
-isn't.</div>
 
-## HTML tags
+### HTML tags
 
 Test links being centred if using `<a>` anchors:
 
