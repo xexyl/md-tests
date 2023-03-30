@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Test html and markdown in GitHub rendered pages</title>
 </head>
 
 # Purpose of this repo
@@ -22,7 +21,9 @@ The following does _**NOT**_ work:
 
 - Centred links in the markdown style (`<a>` does work).
     * For instance having `<div align="center">This [README.md](README.md) link
-    should be centred but it isn't.</div>` will show the markdown literally.
+    should be centred but it isn't.</div>` will show the markdown literally in
+    the centre; that is the text itself is centred but the link is not. One
+    _**can**_ have links centred using `<a`>.
 
 - Certain html elements like `<title>`. At this time the only one I know not to
 work is in fact `<title>` but others do. For instance: `<title>Test html and
