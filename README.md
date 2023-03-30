@@ -4,16 +4,20 @@
 
 # Purpose of this repo
 
-The purpose of this repo is to test getting umlauts and other diacritics to work
-with GitHub markdown files - as well as other funny things noticed. It seems
-that in this repo umlauts do work but in another they do not in all cases. 
+The purpose of this repo is to test markdown / html features in markdown
+documents. Initially this was made to try and get umlauts and other diacritics
+to work with GitHub but it's been expanded for other tests as well. It seems in
+this repo umlauts do work but in another they do not in all cases. 
 
-Meanwhile using `rdiscount` locally at least when trying to centre links it just
-shows the raw markdown rather than the html. Maybe it's `rdiscount` or maybe
-it's the way markdown works.
+Using `rdiscount` locally when trying to centre links it just shows the raw
+markdown rather than the html. This appears to be a markdown limitation itself
+if the GitHub failure to do this as well is a valid indication (which it seems
+to be).
 
-Progress might or might not be made and this might or might not be worked on at
-different times depending on other things going on.
+Progress / additional tests will be made in time depending on other things going
+on and if any tests need to be made. As I discover what works and what does not
+I'll update the sections below on what's known not work and what is known to
+work.
 
 ## What's known so far to _NOT_ work
 
