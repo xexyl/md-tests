@@ -1,3 +1,8 @@
+<html>
+<head>
+<title>Test html and markdown in GitHub rendered pages</title>
+</head>
+
 # Purpose of this repo
 
 The purpose of this repo is to test getting umlauts and other diacritics to work
@@ -31,3 +36,11 @@ Do German snakes go ßßßßßßßßßßßßßßßßßßßßßßßßß?
 
 <div align="center">This [README.md](README.md) link should be centred but it
 isn't.</div>
+
+## HTML tags
+
+Test links being centred if using `<a>` anchors:
+
+<div align="center"><a href="README.md">README.md link</a></div>
+
+</html>
