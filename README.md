@@ -73,7 +73,7 @@ The `\` should be over the `T` in `This`. Locally I had it but when rendering on
 GitHub it did not work so I'm trying a different way until I get it right.
 
 ```c
-		/\
+	      /\
     /	       This is *not* what you think:
 ```
 
